@@ -19,6 +19,6 @@
 
 <p align = 'center'> 
   <a href="https://github.com/tehmj">
-    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tehmj&show_icons=true&theme=github_dark" alt="michaelnavs" /></p>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=navazjm&show_icons=true&theme=github_dark" alt="michaelnavs" /></p>
   </a>
 </p>
