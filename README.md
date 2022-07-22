@@ -1,5 +1,5 @@
 ### Hi there, I'm [Michael!](https://github.com/tehmj)
-- 🔭 I’m currently working on Gignr, an open source .gitignore file generator in the terminal
+- 🔭 I’m currently working on MOTDF, a web app to see all upcoming football matches! 
 - 👯 I’m looking to collaborate on open source projects that help my fellow developers.
 - 💬 Ask me about anything, I'm happy to help!
 - In my free time, I love to workout 💪🏼 and watch the Premier League ⚽️
