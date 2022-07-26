@@ -14,7 +14,7 @@
 **Contact:**
 
 [![linkedin badge](https://img.shields.io/badge/Michael_Navarro-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/michael-navarro-297438167/)
-[![twitter badge](https://img.shields.io/badge/@navazjm?style=flat&logo=twitter)](https://twitter.com/navazjm)
+[![twitter badge](https://img.shields.io/badge/@navazjm-30302f?style=flat&logo=twitter)](https://twitter.com/navazjm)
 [![Gmail Badge](https://img.shields.io/badge/Michael_Navarro-30302f?style=flat&logo=gmail)](mailto:michaelnavs@gmail.com)
 
 <p align = 'center'> 
