@@ -1,5 +1,5 @@
 ### Hi there, I'm [Michael!](https://github.com/tehmj)
-- 🔭 I’m currently working on OnlyLunkers, a web app to see where people are catching cool fish! 🎣 
+- 🔭 I’m currently working on perfected my skills in algos and ds 👨🏻‍💻 
 - 👯 I’m looking to collaborate on open source projects that help my fellow developers.
 - 💬 Ask me about anything, I'm happy to help!
 - In my free time, I love to workout 💪🏼 and watch the Premier League ⚽️
