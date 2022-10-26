@@ -1,11 +1,12 @@
 ### Hi there, I'm [Michael!](https://github.com/tehmj)
-- 🔭 I’m currently working on perfected my skills in algos and ds 👨🏻‍💻 
+- 🔭 I’m currently working on GameZone 🕹 
 - 👯 I’m looking to collaborate on open source projects that help my fellow developers.
 - 💬 Ask me about anything, I'm happy to help!
 - In my free time, I love to workout 💪 and watch the Premier League ⚽️
 
 **Languages and Tools:**
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
