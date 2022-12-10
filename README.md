@@ -1,5 +1,5 @@
 ### Hi there, I'm [Michael!](https://github.com/navazjm)
-- 🔭 I’m currently working on [TodoApp](https://github.com/navazjm/todoapp) - a PERN Stack Todo Application 
+- 🔭 I’m currently working on [Azile](https://github.com/navazjm/azile) - a database migration tool written in TypeScript
 - 👯 I’m looking to collaborate on open source projects that help my fellow developers.
 - 💬 Ask me about anything, I'm happy to help!
 - In my free time, I love to workout 💪 and watch the Premier League ⚽️
